@@ -1,0 +1,9 @@
+# Dependencies
+ai-study-backend/node_modules/
+ai-study-frontend/node_modules/
+
+# Build outputs
+ai-study-frontend/build/
+
+# Environment secrets
+ai-study-backend/.env
